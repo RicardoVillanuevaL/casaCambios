@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1077216674189",
+    "project_id": "appservicesexample",
+    "storage_bucket": "appservicesexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077216674189:android:29e22067067e64107c7dc4",
+        "android_client_info": {
+          "package_name": "com.example.application_casa_cambios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077216674189-q908mfvobpuufpmdfr642p6qjc51caa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSveWCp7LYswoQYYOOLonLt8laEilT3EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077216674189-q908mfvobpuufpmdfr642p6qjc51caa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077216674189:android:6f8b43d33214869e7c7dc4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077216674189-ecc9s01n2gf9cuqplpi8tcmlokbpcfd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseexample",
+            "certificate_hash": "f03579c843c1c1e0b61858cbc4445b6864470c37"
+          }
+        },
+        {
+          "client_id": "1077216674189-q908mfvobpuufpmdfr642p6qjc51caa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSveWCp7LYswoQYYOOLonLt8laEilT3EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077216674189-q908mfvobpuufpmdfr642p6qjc51caa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
